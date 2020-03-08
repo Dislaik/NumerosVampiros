@@ -52,7 +52,7 @@ def comparate(lista_2):
 		permutaciones = genera(n, lista)
 		j = 0
 		while j < len(permutaciones):
-			if len(permutaciones) < 2:
+			if len(lista) <= 3:
 				a = 'FALSE'
 				print('No cumple una condición (Numero par no primo) =', a)
 			else:
