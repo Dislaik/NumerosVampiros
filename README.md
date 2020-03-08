@@ -8,6 +8,6 @@ Se obtiene los datos a través de un archivo de texto "vampiro_in.txt" donde se 
 | ------------- |:-------------:|
 | 4             | FALSE         |
 | 2187          | TRUE          |
-|   126         | TRUE          |
+|   126         | FALSE         |
 |   1122        | FALSE         |
 |   536539      | TRUE          |
